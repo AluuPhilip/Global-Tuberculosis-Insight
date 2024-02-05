@@ -53,29 +53,46 @@ In the initial initial data preparation phase, i performed the following tasks
 ---
 
 EDA involved exploring the kaggle dataset to answer key questions such as;
-- Broad Question:
-How has the incidence of all forms of tuberculosis and related mortality changed over the years?
-Targeted Analysis Questions:
-What is the overall trend in the incidence of all forms of tuberculosis worldwide?
-Are there specific countries or regions that have seen a significant increase or decrease in tuberculosis incidence?
-How has the distribution of tuberculosis-related deaths across different age groups evolved over the years?
 
 Broad Question:
-What is the treatment success rate for different forms of tuberculosis?
+  
+- How has the incidence of all forms of tuberculosis and related mortality changed over the years?
+
 Targeted Analysis Questions:
-What is the treatment success rate for new TB cases globally, and how has it changed over time?
-How has the treatment success rate for XDR-TB cases evolved over the years?
+
+- What is the overall trend in the incidence of all forms of tuberculosis worldwide?
+
+- Are there specific countries or regions that have seen a significant increase or decrease in tuberculosis incidence?
+
+- How has the distribution of tuberculosis-related deaths across different age groups evolved over the years?
+
+Broad Question:
+
+- What is the treatment success rate for different forms of tuberculosis?
+
+Targeted Analysis Questions:
+
+- What is the treatment success rate for new TB cases globally, and how has it changed over time?
+
+- How has the treatment success rate for XDR-TB cases evolved over the years?
 
 Broad Question: 
-Are there significant regional disparities in the incidence, mortality, and treatment outcomes of tuberculosis?
-Targeted Analysis Questions:
-Which regions or countries have the highest incidence of all forms of tuberculosis?
+
+- Are there significant regional disparities in the incidence, mortality, and treatment outcomes of tuberculosis?
+
+- Targeted Analysis Questions:
+
+- Which regions or countries have the highest incidence of all forms of tuberculosis?
 
 Broad Question:
-How effective is the case detection process, and what are the trends in reporting all forms of tuberculosis?
+
+- How effective is the case detection process, and what are the trends in reporting all forms of tuberculosis?
+
 Targeted Analysis Questions:
-What is the global case detection rate for all forms of tuberculosis, and how has it changed over the years?
-How does the reported incidence of tuberculosis compare with estimated incidence, and are there regions where underreporting or overreporting is prevalent?
+
+- What is the global case detection rate for all forms of tuberculosis, and how has it changed over the years?
+
+- How does the reported incidence of tuberculosis compare with estimated incidence, and are there regions where underreporting or overreporting is prevalent?
 
 ### Findings 
 ---
