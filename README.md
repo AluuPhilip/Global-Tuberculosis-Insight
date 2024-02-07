@@ -106,7 +106,18 @@ Targeted Analysis Questions:
    
 ### Recommendation 
 ---
-- WHO and other Developmental patners  to increase aids and support to India and African Countries in terms Health care development and best practices to increase the awareness and increase the treatment success rate
-- Increased Awareness and education about the incidences of Tuberculosis
-- Enhance timely and proper reporting and documentation of all Tuberculosis cases
-- Strenghten  Health education and urgently improve the Health care system in Africa, India and Pakistain
+- Based on the Tuberculosis Analysis findings, here are some recommendations:
+
+1. Strengthen TB Control Measures: Despite reduced mortality, TB remains a health concern. Governments should invest in early detection, treatment, and prevention.
+
+2. Target High-Burden Countries: Focus efforts on countries with high TB rates like Eswatini, South Africa, India, and Indonesia.
+
+3. Improve Reporting Systems: Enhance data collection to accurately track TB cases and allocate resources effectively.
+
+4. Focus on High-Risk Groups: Prioritize testing and treatment for individuals aged 15-49, where TB is most prevalent.
+
+5. Promote Collaboration: Encourage partnerships between governments, healthcare providers, and NGOs to share resources and expertise.
+
+6. Invest in Research: Support research on drug-resistant TB, vaccines, and new treatments to improve outcomes.
+
+By following these recommendations, we can work towards reducing the burden of TB globally.
